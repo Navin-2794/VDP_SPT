@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class AppTest {
+
     
   @Test
   public void shouldAnswerWithTrue() {
@@ -13,5 +14,11 @@ public class AppTest {
     System.out.println("Assertion is True...");
     System.out.println("Team-C");
   }
+
+  
+	public void Hello() {
+		System.out.println("Hiii....");
+	}
+
 
 }

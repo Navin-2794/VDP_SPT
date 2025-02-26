@@ -16,7 +16,7 @@ public class AppTest {
 	}
 
 	public void m() {
-
+		System.out.println("Method Created");
 	}
 
 }

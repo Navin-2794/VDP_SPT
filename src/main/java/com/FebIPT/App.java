@@ -4,7 +4,14 @@ public class App {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 		System.out.println("Hello Team A & Team C!");
-
 	}
+		public void helloWord() {
+			
+			System.out.println("Team-B& Hari& Ajith");
+			
+		}
+
+	
 
 }
+

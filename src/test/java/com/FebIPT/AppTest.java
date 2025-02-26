@@ -9,14 +9,17 @@ public class AppTest {
 	@Test
 	public void shouldAnswerWithTrue() {
 		assertTrue(true);
-
-		System.out.println("Assertion is True...");
-		System.out.println("Team-C");
-
 	}
 
 	public void m() {
 		System.out.println("Method Created");
+	}
+
+	public void v() {
+
+		System.out.println("New Method");
+		System.out.println("Team-C");
+
 	}
 
 }

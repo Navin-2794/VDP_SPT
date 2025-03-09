@@ -11,7 +11,9 @@ public class App {
 	}
 
 	public void helloMars() {
-		System.out.println("Harikrishnan From Nov IPT");
+		System.out.println("Harikrishnan From Nov IPT      ");
+		System.out.println("          ");
+		System.out.println("Hello Haristr     ");
 	}
 
 	public void helloJupiter() {

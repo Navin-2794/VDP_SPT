@@ -5,13 +5,13 @@ public class App {
 		System.out.println("Hello World!");
 		System.out.println("Hello Team A & Team C!");
 	}
-		public void helloWord() {
-			
-			System.out.println("Team-B& Hari& Ajith");
-			
-		}
 
+	public void helloWord() {
+
+		System.out.println("Team-B& Hari& Ajith");
+	}
 	
-
+	public void helloMars() {
+		System.out.println("Harikrishnan From Nov IPT");
+	}
 }
-

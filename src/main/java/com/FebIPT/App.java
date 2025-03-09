@@ -7,11 +7,14 @@ public class App {
 	}
 
 	public void helloWord() {
-
 		System.out.println("Team-B& Hari& Ajith");
 	}
-	
+
 	public void helloMars() {
 		System.out.println("Harikrishnan From Nov IPT");
+	}
+
+	public void helloJupiter() {
+		System.out.println("HariStr From Nov IPT 2024");
 	}
 }
